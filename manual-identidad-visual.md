@@ -56,21 +56,21 @@ Proper logo use helps to deliver a consistent experience across our diverse and 
 Clear space and minimum-size rules ensure the logo is clearly visible for print and web applications.
 
 Full-Color
-![image color 1](<Manual de identidad toastmaster_images/ToastmasterLogo/Color/ToastmastersLogo3Color.jpg>)
-![image color 2](<Manual de identidad toastmaster_images/ToastmasterLogo/Color/ToastmastersLogo3Color.png>)
-![image color 3](<Manual de identidad toastmaster_images/ToastmasterLogo/Color/ToastmastersLogo3Color.svg>)
-![image color 4](<Manual de identidad toastmaster_images/ToastmasterLogo/Color/ToastmastersLogoColor.jpg>)
-![image color 5](<Manual de identidad toastmaster_images/ToastmasterLogo/Color/ToastmastersLogo3Color.png>)
-![image color 6](<Manual de identidad toastmaster_images/ToastmasterLogo/Color/ToastmastersLogo3Color.svg>)
+![image color 1](<Manual de identidad toastmaster_images/ToastmastersLogo/Color/ToastmastersLogo3Color.jpg>)
+![image color 2](<Manual de identidad toastmaster_images/ToastmastersLogo/Color/ToastmastersLogo3Color.png>)
+![image color 3](<Manual de identidad toastmaster_images/ToastmastersLogo/Color/ToastmastersLogo3Color.svg>)
+![image color 4](<Manual de identidad toastmaster_images/ToastmastersLogo/Color/ToastmastersLogoColor.jpg>)
+![image color 5](<Manual de identidad toastmaster_images/ToastmastersLogo/Color/ToastmastersLogo3Color.png>)
+![image color 6](<Manual de identidad toastmaster_images/ToastmastersLogo/Color/ToastmastersLogo3Color.svg>)
 
 Grayscale
-![image gray 1](<Manual de identidad toastmaster_images/ToastmasterLogo/Grayscale/ToastmastersLogoGrayscale.jpg>)
-![image gray 2](<Manual de identidad toastmaster_images/ToastmasterLogo/Grayscale/ToastmastersLogoGrayscale.png>)
-![image gray 3](<Manual de identidad toastmaster_images/ToastmasterLogo/Grayscale/ToastmastersLogoGrayscale.svg>)
+![image gray 1](<Manual de identidad toastmaster_images/ToastmastersLogo/Grayscale/ToastmastersLogoGrayscale.jpg>)
+![image gray 2](<Manual de identidad toastmaster_images/ToastmastersLogo/Grayscale/ToastmastersLogoGrayscale.png>)
+![image gray 3](<Manual de identidad toastmaster_images/ToastmastersLogo/Grayscale/ToastmastersLogoGrayscale.svg>)
 
 White
-![image white 1](<Manual de identidad toastmaster_images/ToastmasterLogo/White/ToastmastersLogoWhite.png>)
-![image white 3](<Manual de identidad toastmaster_images/ToastmasterLogo/White/ToastmastersLogoWhite.svg>)
+![image white 1](<Manual de identidad toastmaster_images/ToastmastersLogo/White/ToastmastersLogoWhite.png>)
+![image white 3](<Manual de identidad toastmaster_images/ToastmastersLogo/White/ToastmastersLogoWhite.svg>)
 
 ###### Clear Space
 
