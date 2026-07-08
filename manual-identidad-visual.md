@@ -242,13 +242,13 @@ Linear Gradient 0° (left to right)
 Linear Gradient 0° (right to left)
 
 - Blissful Blue: #006094
-- LoyalBlue:#004165
+- LoyalBlue: #004165
 
 Radial Gradient 0°
 
-- Loyal Blue:#004165
-- Blissful Blue:#006094
-- Loyal Blue:#004165
+- Loyal Blue: #004165
+- Blissful Blue: #006094
+- Loyal Blue: #004165
 
 ###### Gradient Colors
 
